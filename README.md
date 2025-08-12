@@ -2,7 +2,7 @@
 
 Une plateforme interactive complète pour apprendre ROS 2 étape par étape, construite avec React, TypeScript et Material UI.
 
-![image](chemin/vers/image.png)
+![image](https://github.com/kevinbdx35/ros2-courses/blob/main/img.png?raw=true)
 
 
 ## 🚀 Fonctionnalités
