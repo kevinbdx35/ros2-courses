@@ -2,6 +2,9 @@
 
 Une plateforme interactive complète pour apprendre ROS 2 étape par étape, construite avec React, TypeScript et Material UI.
 
+![image](chemin/vers/image.png)
+
+
 ## 🚀 Fonctionnalités
 
 - **Apprentissage progressif** : 5 chapitres structurés depuis l'installation jusqu'aux concepts avancés
